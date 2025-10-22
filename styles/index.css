@@ -55,3 +55,16 @@ form * {
   font-style: italic;
   font-size: 110%;
 }
+
+#saludo {
+  background-color: #9ECFD4;
+  border-radius: 15px;
+  -webkit-box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+          box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  padding: 5px;
+}
+
+#saludo p {
+  font-size: 120%;
+  font-style: italic;
+}
